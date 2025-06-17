@@ -1,6 +1,6 @@
 # SQL Interpolation & Outlier Detection
 
-**Source:** Data Engineering (INFO 258) “Project 3: Time-Series Interpolation & Outlier Detection” on Gradescope (21.5 / 22.0).
+**Source:** Data Engineering (INFO 258) “Project 3: Time-Series Interpolation & Outlier Detection” 
 
 A three-pass PostgreSQL pipeline that:
 
